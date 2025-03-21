@@ -33,7 +33,7 @@ struct ContentView: View {
     var body: some View {
         VStack {
             Text("First View")
-                .font(.largeTitle)
+                .font(.caption)
                 .padding()
             
             Button(action: {
@@ -47,7 +47,7 @@ struct ContentView: View {
             }
             .accessibilityIdentifier("incrementButton")
         }
-        .navigationTitle("First View")
+        .navigationTitle("Home")
     }
     
     func testButtonPress() {
