@@ -1,5 +1,5 @@
 # Snapshot
-Sample iOS project that shows a sample on how implementing snapshot testing. This is the basecode for following post [S.O.L.I.D. principles in Swift](https://javios.eu/uncategorized/solid-principles-in-swift/)
+Sample iOS project that shows a sample on how implementing snapshot testing. This is the basecode for following post  [Visual Regresion Testing: Implementing Snapshot test on iOS](https://javios.eu/test/snapshot-test-on-ios/)
 
 
 
